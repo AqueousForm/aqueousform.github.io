@@ -1,2 +1,2 @@
 # aqueousform.github.io
-blog for aqueous
+blog for aqueousform
